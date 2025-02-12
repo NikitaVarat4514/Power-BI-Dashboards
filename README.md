@@ -32,6 +32,20 @@ Key Business Recommendations:
 # Ecommerce Dashboard
 This Power BI dashboard provides a comprehensive analysis of e-commerce sales data, enabling businesses to track key metrics and identify trends to drive decision-making. The dashboard highlights various aspects of sales performance, including revenue, profit, and customer purchasing behavior.
 
+Key Insights:
+* Top Performing State: Maharashtra leads in total sales.
+* Best-Selling Category: Clothing dominates with 63% of sales.
+* Peak Profit Months: March, August, and October show high profitability.
+* Most Used Payment Mode: Cash on Delivery (44%) is preferred.
+* Highest Profit Sub-Category: Printers generate the most profit.
+
+Recommendations: 
+* Boost online payments by offering discounts on UPI & credit card transactions.
+* Expand inventory for high-demand items like clothing and printers.
+* Target marketing campaigns in Maharashtra for higher conversions.
+* Leverage peak months (March, August, October) with promotions.
+* Analyze COD transactions for potential fraud or delayed payments.
+
 # HR Dashboard
 This Power BI dashboard provides a detailed overview of employee data, enabling HR departments to monitor key metrics such as attrition rate, performance, job satisfaction, and demographic distribution. The dashboard is designed to support data-driven decision-making and optimize workforce management strategies.
 
