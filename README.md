@@ -4,6 +4,31 @@ A collection of interactive Power BI dashboards showcasing data analysis and vis
 # Customer Transcation Analysis Dashboard
 An interactive Power BI dashboard analyzing credit card transaction data to uncover key insights into customer behavior and financial trends. Highlights include revenue analysis by card category and use type, customer satisfaction scores, delinquency rates, and revenue trends across months, gender, and education levels. This dashboard demonstrates proficiency in data visualization, advanced DAX calculations, and actionable insights to support business decision-making.
 
+Key Insights:
+* Revenue & Transactions:
+* Blue cards generate the highest revenue (16M), while Platinum has the least.
+* May and December peak in revenue, with July and November being the lowest.
+
+Customer Insights:
+* Gold category has the highest customer satisfaction (1332).
+* Platinum cards show higher delinquency rates (249 cases), requiring risk management.
+
+Demographic Trends:
+* Men & Women have similar revenue distribution, but spending behavior varies.
+* Homeowners tend to have higher incomes & spending patterns.
+
+Actionable Insights:
+* Boost engagement for Silver & Gold cardholders to increase transactions.
+* Focus on high-risk Platinum cardholders to reduce delinquencies.
+* Leverage seasonal trends for targeted marketing in peak months.
+
+Key Business Recommendations:
+* Boost Silver & Gold card usage with targeted offers.
+* Focus marketing on May & December, peak spending months.
+* Reduce Platinum card delinquency with stricter approvals.
+* Improve customer experience for Platinum users.
+* Personalize marketing based on gender and income levels.
+
 # Ecommerce Dashboard
 This Power BI dashboard provides a comprehensive analysis of e-commerce sales data, enabling businesses to track key metrics and identify trends to drive decision-making. The dashboard highlights various aspects of sales performance, including revenue, profit, and customer purchasing behavior.
 
