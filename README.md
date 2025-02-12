@@ -9,10 +9,10 @@ This Power BI dashboard provides a comprehensive analysis of e-commerce sales da
 
 # HR Dashboard
 This Power BI dashboard provides a detailed overview of employee data, enabling HR departments to monitor key metrics such as attrition rate, performance, job satisfaction, and demographic distribution. The dashboard is designed to support data-driven decision-making and optimize workforce management strategies.
-Key Business Recommendations:
-📌 Address High Attrition in R&D & Sales: Conduct exit interviews & improve retention strategies.
-📌 Enhance Job Satisfaction: Focus on lower-rated job roles (e.g., Sales Executives, Lab Technicians).
-📌 Diversity & Inclusion Efforts: Gender balance is shown but needs deeper analysis.
-📌 Hiring Strategy:
+* Key Business Recommendations:
+* Address High Attrition in R&D & Sales: Conduct exit interviews & improve retention strategies.
+* Enhance Job Satisfaction: Focus on lower-rated job roles (e.g., Sales Executives, Lab Technicians).
+* Diversity & Inclusion Efforts: Gender balance is shown but needs deeper analysis.
+* Hiring Strategy:
 Consider hiring more young professionals to ensure future leadership.
 Increase training & mentorship for early-career employees.
